@@ -1,4 +1,8 @@
-# Steps to recreate
+# Parcel server and cache issue
+
+https://github.com/parcel-bundler/parcel/issues/5989
+
+## Steps to recreate
 
 1. Install dependencies `yarn install`
 2. Run the dev server `yarn start`
